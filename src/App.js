@@ -10,7 +10,6 @@ function App() {
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route exact path="/search" element={<Search />} />
-          {/* Search Page */}
         </Routes>
       </Router>
     </div>
